@@ -292,5 +292,8 @@ main {
 @media screen and (max-width: 500px) {
   main#home h1 {
     margin-top: 10vh; }
+  .text-secondary {
+        font-size: 3.5rem;
+    }
   .projects {
     grid-template-columns: 1fr; } }
