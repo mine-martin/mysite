@@ -2,7 +2,7 @@
 
 my Responsive web Portfolio created using html, js and sass/scss
 
-#SetUp
+SetUp
 Clone repo and cd into the folder
 
 ```bash
