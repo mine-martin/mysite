@@ -22,7 +22,7 @@ or
   npm install
 ```
 
-Run from command line
+Run from command line from the same folder(mysite)
 
 ```bash
   npm run sass
