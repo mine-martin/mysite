@@ -1,0 +1,16 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio",
+  "main": "mine.js",
+  "homepage": "https://mine-martin.github.io",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o mine/css --recursive",
+    "deploy": "gh-pages -d mine"
+  },
+  "author": "Martin Mine",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
