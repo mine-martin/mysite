@@ -87,8 +87,8 @@
         }
 
         .portrait {
-            height: 250px;
-            width: 200px;
+            height: 450px;
+            width: 400px;
             background: $portrait-image;
             background-color: black;
             background-size: cover;
@@ -97,7 +97,7 @@
             //display: block;
             // width: 175px;
             // height: 250px;
-            border-radius: 50%;
+            border-radius: 5%;
         }
     }
 
